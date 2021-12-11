@@ -1,3 +1,4 @@
+#arc029_A
 n = int(input())
 t = [int(input()) for _ in range(n)]
 result = -1
